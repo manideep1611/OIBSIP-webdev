@@ -1,0 +1,38 @@
+body{
+    background-image: url(096a35453660aa9b83ba4ab6d9182d61.jpg);
+    text-align:center;
+  }
+  
+    h1 {
+      font-family: sans-serif;
+      text-decoration: overline underline;
+      font-variant: Nanum Gothic;
+      color: #5bbd06;
+    }
+    input {
+      text-align: center;
+      display: block;
+      padding: 10px;
+      margin: auto;
+      font-size: 2em;
+      color: #46db10;
+      font-family: "Lucida Console", "Courier New", monospace;
+      border: 5px solid rgb(0, 0, 0);
+    }
+    ::-webkit-input-placeholder {
+       color: rgb(224, 165, 165);
+    }
+    :-moz-placeholder { /* Firefox 18- */
+       color: rgb(224, 165, 165);
+    }
+    ::-moz-placeholder {  /* Firefox 19+ */
+       color: rgb(224, 165, 165);
+    }
+    :-ms-input-placeholder {
+       color:  rgb(224, 165, 165);
+    }
+    button {
+      padding: 20px;
+      font-size: 1.2em;
+      color: #930505;
+    }
