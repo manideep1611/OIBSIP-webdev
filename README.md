@@ -1,1 +1,1 @@
-projects for oasis infobyte internship
+ web development projects for oasis infobyte internship
